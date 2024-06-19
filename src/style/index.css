@@ -1,0 +1,10 @@
+:root{
+    --fore: #B85042;
+    --back: #3b57e0;
+    --base: #A7BEAE;
+  
+}
+
+body{
+    background-color: var(--back);
+}

@@ -1,0 +1,12 @@
+.con{
+    background-color: rgb(157, 230, 223);
+    margin:0.1in 0 0.1in;
+    display: flex;
+    flex-direction: row;
+    scroll-behavior: smooth;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid rgb(86, 128, 124, 0.6);
+    border-radius: 4px;
+}

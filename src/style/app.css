@@ -1,0 +1,38 @@
+:root{
+  --fore: #B85042;
+  --back: #3b57e0;
+  --base: #759e81;
+}
+
+.container{
+  width: 40%;
+  width: 35vw;
+  position: absolute;
+  height: 30vw;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  background: white;
+  border-radius: 10px;
+}
+
+.heading{
+  margin: 0.2in 0.1in 0 0.1in;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.toadd{
+  width: 80%;
+  height: 0.38in;
+  border:#3b57e0 1.5px solid;
+  border-radius: 0.05in;
+}
+
+.item-container{
+  margin: 0.75in 0.1in 0 0.1in;
+  overflow-y: auto;
+  height: 62%;
+}
